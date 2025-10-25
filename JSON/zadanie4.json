@@ -1,0 +1,15 @@
+{
+    "imie": "Wojciech",
+    "nazwisko": "Sobon",
+    "wiek": 20,
+    "wzrost": 1.75,
+    "chlopak": true,
+    "dziewczyna": false,
+    "zainteresowania": ["informatyka","muzyka"],
+    "rodzina": {
+        "mama": "jolanta",
+        "tata": "tomasz"
+    }
+    
+
+}
