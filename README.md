@@ -1,4 +1,4 @@
 # Team
-1. Bartłomiej Wysokiński (8B4art3ek)
-2. Wojciech Soboń (Agraminis)
-3. Aleksander Śpiewak (olektrol)
+1. Bartłomiej Wysokiński (8B4art3ek) zadania 1, 6
+2. Wojciech Soboń (Agraminis) zadania 4, 5
+3. Aleksander Śpiewak (olektrol) zadania 2, 3
