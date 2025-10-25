@@ -1,0 +1,42 @@
+ {
+    "line_number": "1",
+    "type": "Tram",
+    "route": "Wzgórza Krzesławickie - Salwator",
+    "frequency_min": 10,
+    "operator": "MPK Kraków"
+  },
+  {
+    "line_number": "152",
+    "type": "Bus",
+    "route": "Os. Podwawelskie - Balice Airport",
+    "frequency_min": 20,
+    "operator": "MPK Kraków"
+  },
+  {
+    "line_number": "50",
+    "type": "Tram (Fast line)",
+    "route": "Krowodrza Górka - Kurdwanów P+R",
+    "frequency_min": 5,
+    "operator": "MPK Kraków"
+  },
+  {
+    "line_number": "179",
+    "type": "Bus",
+    "route": "Dworzec Główny Wschód - Os. Kurdwanów",
+    "frequency_min": 15,
+    "operator": "MPK Kraków"
+  },
+  {
+    "line_number": "52",
+    "type": "Tram",
+    "route": "Czerwone Maki P+R - Os. Piastów",
+    "frequency_min": 7,
+    "operator": "MPK Kraków"
+  },
+  {
+    "line_number": "902",
+    "type": "Night Bus",
+    "route": "Dworzec Główny - Nowa Huta",
+    "frequency_min": 30,
+    "operator": "MPK Kraków"
+  }
