@@ -14,7 +14,7 @@ Od 1 sierpnia 2006 roku komunikacja miejska w Krakowie funkcjonuje na zupełnie 
 Bilety w Krakowie są bardzo drogie. Nikt ich nie kupuje, wszyscy jeżdżą na gape.
 
 | Nazwa biletu | Cena normalny | Cena ulgowy | Ważność | 
-| :--- | :---: | :---: | :--- | 
+| :---: | :---: | :---: | :---: | 
 | 20-minutowy | 4.00 zł | 2.00 zł | 20 minut | 
 | 60-minutowy | 6.00 zł | 3.00 zł | 60 minut | 
 | Miesięczny | 148.00 zł | 74.00 zł | 30 dni |
